@@ -1,4 +1,4 @@
-[![MasterHead]([https://tech4leap.com/wp-content/uploads/2023/01/vecteezy_java-programming-language-certificate-with-laptop-and-code_15615108-870x440.jpg](https://media.licdn.com/dms/image/D4D16AQEIxBOiRUuudQ/profile-displaybackgroundimage-shrink_350_1400/0/1688028288914?e=1710374400&v=beta&t=lqA7RI3fKsKotdNIrlksn0KACWwoH6tl_961ipWqIfM))](https://rishavchanda.io)
+[![MasterHead](https://tech4leap.com/wp-content/uploads/2023/01/vecteezy_java-programming-language-certificate-with-laptop-and-code_15615108-870x440.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aneesh Das Mazumder</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
