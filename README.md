@@ -9,7 +9,7 @@
 - 🔭 Tata Consultancy Services **Wealth and Asset Management in Trading - CITI BANK**
 - 🔭 CodeClouds IT Solution Pvt Ltd. **Affiliate Websites Integration with CRM**
 
-- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/crio-1997das-aneesh/](https://www.crio.do/learn/portfolio/crio-1997das-aneesh/)
+- 👨‍💻 All of my personal projects are available at [https://www.crio.do/learn/portfolio/crio-1997das-aneesh/](https://www.crio.do/learn/portfolio/crio-1997das-aneesh/)
 
 - 💬 Ask me about **Java, SpringBoot, Microservices, jQuery**
 
