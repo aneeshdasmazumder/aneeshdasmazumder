@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Hyland Software **HxP - An Enterprise Content Management**
+- 🔭 Hyland Softwares Inc. **HxP - An Enterprise Content Management**
 - 🔭 Tata Consultancy Services **Wealth and Asset Management in Trading - CITI BANK**
 - 🔭 CodeClouds IT Solution Pvt Ltd. **Affiliate Websites Integration with CRM**
 
