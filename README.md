@@ -16,14 +16,18 @@
 
 - https://www.linkedin.com/in/aneesh-das-mazumder-658104129/ [https://www.linkedin.com/in/aneesh-das-mazumder-658104129/](https://www.linkedin.com/in/aneesh-das-mazumder-658104129/)
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/in/aneesh-das-mazumder-658104129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aneesh-das-mazumder-658104129" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aneesh9874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aneesh9874" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aneesh-das-mazumder-658104129" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://leetcode.com/aneesh9874" target="blank">
+<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
-## 🛠️ Tech Stack
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,mongodb,mysql,js,html,css,jenkins,postman" />
 </p>
