@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneeshdasmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="aneeshdasmazumder" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 Hyland Softwares Inc. **HxP - An Enterprise Content Management**
 - 🔭 Tata Consultancy Services **Wealth and Asset Management in Trading - CITI BANK**
