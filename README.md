@@ -38,6 +38,6 @@
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=aneeshdasmazumder&theme=tokyo-night)
 
-## 🐍 Contribution Snake
+## 📅 Contribution Calendar
 
-![snake](https://raw.githubusercontent.com/aneeshdasmazumder/aneeshdasmazumder/output/github-contribution-grid-snake.svg)
+![Calendar](https://ghchart.rshah.org/aneeshdasmazumder)
