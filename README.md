@@ -41,6 +41,3 @@
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=aneeshdasmazumder&theme=tokyo-night)
 
-## 📅 Contribution Calendar
-
-![Calendar](https://ghchart.rshah.org/aneeshdasmazumder)
