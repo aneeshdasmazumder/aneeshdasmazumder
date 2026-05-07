@@ -1,43 +1,111 @@
 <h1 align="center">Hi 👋, I'm Aneesh Das Mazumder</h1>
-<h3 align="center">A passionate backend developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aneeshdasmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="aneeshdasmazumder" /> </p>
 
+<h3 align="center">
+Backend Developer • Java & Spring Boot Enthusiast • DevOps Learner 🚀
+</h3>
 
-- 🔭 Hyland Softwares Inc. **HxP - An Enterprise Content Management**
-- 🔭 Tata Consultancy Services **Wealth and Asset Management in Trading - CITI BANK**
-- 🔭 CodeClouds IT Solution Pvt Ltd. **Affiliate Websites Integration with CRM**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+%7C+Microservices;CI%2FCD+%7C+Docker+%7C+Kubernetes;Learning+Cloud+and+AI;Always+Building+Something+New+🚀" />
+</p>
 
-- 👨‍💻 All of my personal projects are available at [https://www.crio.do/learn/portfolio/crio-1997das-aneesh/](https://www.crio.do/learn/portfolio/crio-1997das-aneesh/)
+---
 
-- 💬 Ask me about **Java, SpringBoot, Microservices, jQuery**
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 📫 How to reach me **aneeshdasmazumder@gmail.com**
+## 👨‍💻 About Me
 
-- https://www.linkedin.com/in/aneesh-das-mazumder-658104129/ [https://www.linkedin.com/in/aneesh-das-mazumder-658104129/](https://www.linkedin.com/in/aneesh-das-mazumder-658104129/)
+- 🔭 Currently working at **Hyland Software**
+- 🌱 Learning **CI/CD, Kubernetes, AWS & AI**
+- 💡 Passionate about **Backend Engineering & System Design**
+- 🛠️ Building projects using **Java, Spring Boot & Microservices**
+- 🎯 Goal: Transition into **AI + Scalable Backend Systems**
+- 📫 Reach me at: **aneeshdasmazumder@gmail.com**
+
+---
+
+## 💼 Experience
+
+### 🏢 Hyland Software
+**HxP - Enterprise Content Management**
+
+### 🏢 Tata Consultancy Services
+**Wealth & Asset Management - Citi Bank**
+
+### 🏢 CodeClouds IT Solutions
+**Affiliate Websites Integration with CRM**
+
+---
 
 ## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/aneesh-das-mazumder-658104129" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<a href="https://www.linkedin.com/in/aneesh-das-mazumder-658104129/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-<a href="https://leetcode.com/aneesh9874" target="blank">
-<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+
+<a href="https://leetcode.com/aneesh9874/" target="blank">
+<img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
+</a>
+
+<a href="mailto:aneeshdasmazumder@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,mongodb,mysql,js,html,css,jenkins,postman" />
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,mongodb,mysql,redis,js,html,css,jenkins,git,github,postman,linux" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneeshdasmazumder&show_icons=true&locale=en&layout=compact" alt="aneeshdasmazumder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aneeshdasmazumder&show_icons=true&locale=en" alt="aneeshdasmazumder" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshdasmazumder&" alt="aneeshdasmazumder" /></p>
+# 📊 GitHub Analytics
 
-## 📊 Contribution Activity
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aneeshdasmazumder&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=aneeshdasmazumder&theme=tokyo-night)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshdasmazumder&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshdasmazumder&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🟩 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aneeshdasmazumder&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/aneeshdasmazumder/aneeshdasmazumder/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aneeshdasmazumder&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🔥 Current Focus
+
+```txt
+✔ Backend Development
+✔ System Design
+✔ CI/CD Pipelines
+✔ Kubernetes & Docker
+✔ AWS Cloud
+✔ AI Engineering Journey
