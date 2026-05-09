@@ -82,13 +82,6 @@ Backend Developer • Java & Spring Boot Enthusiast • DevOps Learner 🚀
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aneeshdasmazumder&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/aneeshdasmazumder/aneeshdasmazumder/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
